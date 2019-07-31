@@ -1,5 +1,5 @@
 ![DSL Logo](dsl_logo.png)
 
 
-# Intro to Data Visualization
- Workshop file for Intro to Data Visualization
+# Intro to Open Refine
+Files for the Intro to Open Refine workshop
